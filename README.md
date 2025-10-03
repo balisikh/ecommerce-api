@@ -22,5 +22,5 @@ A full-featured e-commerce REST API built with Node.js, Express, and MySQL. Incl
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/YourUsername/ecommerce-api.git
+git clone https://github.com/balisikh/ecommerce-api.git
 cd ecommerce-api
